@@ -1,1 +1,1 @@
-# Deep_LearningCS671_2020
+# Deep_Learning_CS671_2020
