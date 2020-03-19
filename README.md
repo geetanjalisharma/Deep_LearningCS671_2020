@@ -2,8 +2,8 @@
 
 # Group Members
 ```
-Geetanjali Sharma 
-Manpreet Singh
-Rohit Bhamu
-Ujjawal
+- Geetanjali Sharma 
+- Manpreet Singh
+- Rohit Bhamu
+- Ujjawal
 ```
